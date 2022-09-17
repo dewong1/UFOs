@@ -1,5 +1,5 @@
 # UFOs
-Create a table (on a new webpage) to organize UFO data that is stored as a Javascript array or list. 
+Create a table (on a new webpage) to organize UFO data that is stored as a JavaScript array or list. 
 
 ## Overview of Project
 
